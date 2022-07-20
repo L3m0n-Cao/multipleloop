@@ -1,7 +1,13 @@
 html, body { /* runs css in text areas */
-  font-family: 'Poppins', sans-serif; /* changes font */
+  font-family: 'Poppins', sans-serif; /* changes font using google fonts as called in index.html */
   background-color: #292c33; /* background colour */
   color: white; /* text colour */
   padding: 25px; /* the amount of space to put around the text */
   font-size: 25px; /* font size in pixels */
 }
+
+
+
+
+
+/* CSS is alright */

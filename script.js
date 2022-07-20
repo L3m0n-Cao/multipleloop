@@ -11,3 +11,9 @@ for (var i = 1; i < fix; i++) { //loop
   console.log(logging); //console logging
   document.write(logging + ", "); //write text and adds ", " to the end of every number.
 }
+
+
+
+
+
+//I wonder if My Teacher will see this secret message ¯\_(ツ)_/¯
